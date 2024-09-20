@@ -1,0 +1,15 @@
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/bin/Debug/net8.0/AC0_Compilador
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/bin/Debug/net8.0/AC0_Compilador.deps.json
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/bin/Debug/net8.0/AC0_Compilador.runtimeconfig.json
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/bin/Debug/net8.0/AC0_Compilador.dll
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/bin/Debug/net8.0/AC0_Compilador.pdb
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/obj/Debug/net8.0/AC0_Compilador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/obj/Debug/net8.0/AC0_Compilador.AssemblyInfoInputs.cache
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/obj/Debug/net8.0/AC0_Compilador.AssemblyInfo.cs
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/obj/Debug/net8.0/AC0_Compilador.csproj.CoreCompileInputs.cache
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/obj/Debug/net8.0/AC0_Compilador.sourcelink.json
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/obj/Debug/net8.0/AC0_Compilador.dll
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/obj/Debug/net8.0/refint/AC0_Compilador.dll
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/obj/Debug/net8.0/AC0_Compilador.pdb
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/obj/Debug/net8.0/AC0_Compilador.genruntimeconfig.cache
+/Users/marc/Documents/Clase/Programación/AC0_Compilador/AC0_Compilador/obj/Debug/net8.0/ref/AC0_Compilador.dll
